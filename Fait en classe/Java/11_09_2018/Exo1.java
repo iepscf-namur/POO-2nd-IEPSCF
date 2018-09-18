@@ -13,7 +13,7 @@ public class Exo1 {
         String nom = "Servais";
 
         System.out.println(prenom + " " + nom);
-
+test
 
     }
     public static int addition(int nbr1, int nbr2){
